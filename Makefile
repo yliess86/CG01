@@ -1,3 +1,5 @@
+all: build
+
 clean:
 	rm -rf build
 
